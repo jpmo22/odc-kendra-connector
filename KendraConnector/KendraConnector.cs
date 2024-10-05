@@ -5,7 +5,7 @@ using KendraConnector.Structures;
 
 namespace KendraConnector;
 
-public class KendraConnector
+public class KendraConnector : IKendraConnector
 {
     public KendraConnector()
     {
