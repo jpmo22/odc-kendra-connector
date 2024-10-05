@@ -3,7 +3,7 @@ using OutSystems.ExternalLibraries.SDK;
 
 namespace KendraConnector
 {
-    [OSInterface(Description = "Kendra Connector to ODC apps.", Name = "KendraConnector")]
+    [OSInterface(Description = "Kendra Connector to ODC apps.", Name = "KendraConnector", IconResourceName = "KendraConnector.KendraConnector.resources.amazon-kendra-icon.png")]
     public interface IKendraConnector
     {
         [OSAction(Description = "Gets information about an Amazon Kendra index.", ReturnName = "DescribeIndexResponse")]
