@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "fJeJOAP5sd8=",
+  "success": true,
+  "projectFilePath": "/Users/jpmatoli/Projects/Kendra Connector/KendraConnector/KendraConnector.csproj",
+  "expectedPackageFiles": [
+    "/Users/jpmatoli/.nuget/packages/awssdk.core/3.7.303/awssdk.core.3.7.303.nupkg.sha512",
+    "/Users/jpmatoli/.nuget/packages/awssdk.kendra/3.7.301/awssdk.kendra.3.7.301.nupkg.sha512",
+    "/Users/jpmatoli/.nuget/packages/outsystems.externallibraries.sdk/1.4.0/outsystems.externallibraries.sdk.1.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

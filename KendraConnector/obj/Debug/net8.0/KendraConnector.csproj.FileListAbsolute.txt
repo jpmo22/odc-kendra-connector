@@ -1,0 +1,12 @@
+/Users/jpmatoli/Projects/Kendra Connector/KendraConnector/bin/Debug/net8.0/KendraConnector.deps.json
+/Users/jpmatoli/Projects/Kendra Connector/KendraConnector/bin/Debug/net8.0/KendraConnector.dll
+/Users/jpmatoli/Projects/Kendra Connector/KendraConnector/bin/Debug/net8.0/KendraConnector.pdb
+/Users/jpmatoli/Projects/Kendra Connector/KendraConnector/obj/Debug/net8.0/KendraConnector.csproj.AssemblyReference.cache
+/Users/jpmatoli/Projects/Kendra Connector/KendraConnector/obj/Debug/net8.0/KendraConnector.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jpmatoli/Projects/Kendra Connector/KendraConnector/obj/Debug/net8.0/KendraConnector.AssemblyInfoInputs.cache
+/Users/jpmatoli/Projects/Kendra Connector/KendraConnector/obj/Debug/net8.0/KendraConnector.AssemblyInfo.cs
+/Users/jpmatoli/Projects/Kendra Connector/KendraConnector/obj/Debug/net8.0/KendraConnector.csproj.CoreCompileInputs.cache
+/Users/jpmatoli/Projects/Kendra Connector/KendraConnector/obj/Debug/net8.0/KendraConnector.dll
+/Users/jpmatoli/Projects/Kendra Connector/KendraConnector/obj/Debug/net8.0/refint/KendraConnector.dll
+/Users/jpmatoli/Projects/Kendra Connector/KendraConnector/obj/Debug/net8.0/KendraConnector.pdb
+/Users/jpmatoli/Projects/Kendra Connector/KendraConnector/obj/Debug/net8.0/ref/KendraConnector.dll
